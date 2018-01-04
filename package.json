@@ -1,6 +1,6 @@
 {
     "name": "webpack-emit-http-push",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "用于开发环境中，将生成的文件发布到服务端，方便我们用本机开发",
     "main": "index.js",
     "scripts": {
